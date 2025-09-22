@@ -55,6 +55,6 @@ api-testing-project/
     ``` 
 7. Run tests only for field validation:
     ```bash
-    pytest -m field_validation
+    pytest -m validation
     ```
 8. Check the report in the `reports/` directory after test execution.
